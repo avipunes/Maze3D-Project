@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties>
+    <level>3</level><line>11</line><column>10</column>
+    
+    
+    <solvesAlgo>BFS</solvesAlgo>
+    <solvesAlgo>Astar Man</solvesAlgo>
+    <solvesAlgo>Astar Air</solvesAlgo>
+    <threadPoolNumber>1</threadPoolNumber>
+</properties>
